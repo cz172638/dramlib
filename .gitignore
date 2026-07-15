@@ -1,0 +1,11 @@
+*.o
+.depend
+*.bin
+*.axf
+*.map
+*.elf
+*.lds
+*.patch
+*.swp
+
+
